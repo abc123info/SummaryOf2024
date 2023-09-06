@@ -14,4 +14,10 @@ PDF电子书哈希值如下：
 MD5:  2ADE305268EDF5E5414325C155ADD4D7
 SHA1: E567304F6A3AAE26604652E3A4BDDEFD8AC35016
 
+![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/c67537f6-808f-4b23-883a-c95a60fa928b)
 
+![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/13192d5f-4044-4bf1-9354-9dbcefcf880b)
+
+![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/8a553c6d-fb89-415b-ae9b-88141ddbb6c2)
+
+![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/46a4ca9c-06c9-4e31-991f-9ec9e2a2cae8)
