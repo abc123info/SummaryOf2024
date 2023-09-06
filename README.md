@@ -17,25 +17,24 @@ SHA1: E567304F6A3AAE26604652E3A4BDDEFD8AC35016
 以下是年刊的目录列表：
 ![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/c67537f6-808f-4b23-883a-c95a60fa928b)
 
-以下是文章节选，关于APT分析类：
 ![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/13192d5f-4044-4bf1-9354-9dbcefcf880b)
 
-以下是文章节选，讲解DNS重绑定攻击原理的示意图：
+以下是文章节选，关于APT分析类：
 ![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/8a553c6d-fb89-415b-ae9b-88141ddbb6c2)
 
-以下是文章节选，讲解运营商链路劫持的分析案例：
+以下是文章节选，讲解DNS重绑定攻击原理的示意图：
 ![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/46a4ca9c-06c9-4e31-991f-9ec9e2a2cae8)
 
-以下是文章节选，介绍原创的一款蓝队分析辅助工具箱：
+以下是文章节选，讲解运营商链路劫持的分析案例：
 ![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/0d8f0e25-39bd-4551-a190-5775d02f6f1a)
 
-以下是文章节选，介绍一款代码审计工具的使用：
+以下是文章节选，介绍原创的一款蓝队分析辅助工具箱：
 ![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/81eb64e3-0efe-42bb-a13b-ff74f200fb88)
 
-以下是文章节选，介绍一次真实的实战蓝队溯源案例：
+以下是文章节选，介绍一款代码审计工具的使用：
 ![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/da5311a0-1034-47e5-8cb3-e071d40ca723)
 
-以下是文章节选，讲解Struts2框架下log4j2漏洞如何检测和发现：
+以下是文章节选，介绍一次真实的实战蓝队溯源案例：以下是文章节选，讲解Struts2框架下log4j2漏洞如何检测和发现：
 ![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/b2e80751-2a40-465d-9efc-fb39bdcfdadd)
 
 以下是文章节选，介绍如何魔改冰蝎3.x以适配JNDIExploit工具：
