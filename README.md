@@ -21,3 +21,17 @@ SHA1: E567304F6A3AAE26604652E3A4BDDEFD8AC35016
 ![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/8a553c6d-fb89-415b-ae9b-88141ddbb6c2)
 
 ![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/46a4ca9c-06c9-4e31-991f-9ec9e2a2cae8)
+
+![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/0d8f0e25-39bd-4551-a190-5775d02f6f1a)
+
+![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/81eb64e3-0efe-42bb-a13b-ff74f200fb88)
+
+![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/da5311a0-1034-47e5-8cb3-e071d40ca723)
+
+![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/b2e80751-2a40-465d-9efc-fb39bdcfdadd)
+
+以下是文章节选，介绍如何魔改冰蝎3.x以适配JNDIExploit工具：
+![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/441f7cdd-ad29-4e46-ab5e-f983441ad4c4)
+
+以下是文章节选，讲解一个Java反序列化漏洞如何绕waf：
+![image](https://github.com/abc123info/SummaryOf2022/assets/143333826/34ae15f4-a72f-469a-8d8c-6e458516202f)
