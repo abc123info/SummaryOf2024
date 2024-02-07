@@ -9,11 +9,19 @@ APT案例分析的研究，极大提升了ABC_123对于网络攻防的认知水�
 
 现在把自己在2023年写的41篇原创文章排版做成pdf、chm电子书分享给大家，方便大家收藏阅览。欢迎关注ABC_123的公众号"希潭实验室"，公众号坚持99%原创，不发广告，欢迎关注，欢迎转发。
 
-2023年ABC_123公众号年刊目录如下：
+2023年ABC_123公众号年刊目录如下，2023年年刊PDF电子书哈希值如下：
+MD5: E0ACEB55B1C856C19CBC92D14A914C8A
+SHA1: AF3412D05FC058516607A18F67D92A10BC301DBC
+
+![d111](https://github.com/abc123info/SummaryOf2022/assets/143333826/bf21d6c9-2b64-4345-b6fe-803c7b34977b)
 
 ![a111](https://github.com/abc123info/SummaryOf2022/assets/143333826/88886220-caba-44f2-8f99-b911d281ee94)
 
-2022年ABC_123公众号年刊目录如下：
+2022年ABC_123公众号年刊目录如下，2022年年刊PDF电子书哈希值如下：
+MD5: 3D2ED827F30FBF2E1D81D90A52717E2D
+SHA1: 2B3CD765CD110D76C83F4FC974A4762DB79E7E10
+
+![d222](https://github.com/abc123info/SummaryOf2022/assets/143333826/b2bf0a97-f627-4cc3-bc28-945ec379c7b2)
 
 ![a222](https://github.com/abc123info/SummaryOf2022/assets/143333826/ff95e1b2-6712-4f69-b206-09f1fdb6ba0d)
 
